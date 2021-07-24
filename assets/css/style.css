@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Oswald&display=swap');
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #FFFBBD;
+    color: #5B00B5;
+}
+
+/* heading and logo */
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+}
