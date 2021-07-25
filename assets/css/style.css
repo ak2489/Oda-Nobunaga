@@ -14,7 +14,16 @@ h1 {
     text-align: center;
     font-size: 80px;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
+
+/* image and opening statement */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 /* navigation links */
 
@@ -40,8 +49,3 @@ h1 {
     border-bottom: 2px solid #3a3a3a;
 }
 
-/* opening statement and image */
-
-#oda-nobunaga {
-    margin-left: 100px;
-}
