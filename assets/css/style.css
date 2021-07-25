@@ -10,4 +10,8 @@ body {
 
 h1 {
     font-family: 'Kaushan Script', cursive;
+    letter-spacing: 4px;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 10px;
 }
