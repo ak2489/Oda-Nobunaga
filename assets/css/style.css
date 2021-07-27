@@ -41,8 +41,8 @@ h2 {
 }
 
 #images {
-    height: 60%;
-    width: 60%;
+    height: 40%;
+    width: 40%;
 }
 
 
@@ -82,7 +82,7 @@ h2 {
 /* information style */
 
 p {
-    text-align: center;
+    text-align: left;
     margin-left: 40px;
     margin-right: 40px;
 }
