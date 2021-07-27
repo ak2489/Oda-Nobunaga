@@ -19,8 +19,9 @@ h1 {
 
 h2 {
     font-family: 'kaushan Script', cursive;
-    font-size: xx-large;
+    font-size: xxx-large;
     margin-left: 60px;
+    text-align: center;
 }
 
 /* image and opening statement */
