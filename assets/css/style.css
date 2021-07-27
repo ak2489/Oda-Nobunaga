@@ -34,9 +34,9 @@ h2 {
 #oda-clan {
     height: 206px;
     width: 170px;
-    float: left;
-    margin-left: 40px;
-    margin-right: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .picture {
@@ -92,4 +92,13 @@ p {
 h3 {
     font-size: x-large;
     margin-left: 60px;
+}
+
+/* footer links */
+
+#links {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
