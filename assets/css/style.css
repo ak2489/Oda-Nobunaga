@@ -137,3 +137,31 @@ h3 {
     text-align: center;
     padding-left: 40px;
   }
+
+  /* media queries */
+
+    /* for medium screen sizes 950px wide and down*/
+    @media screen and (max-width: 950px) {
+      .picture {
+        width: 70%;
+      }
+    }
+
+    /* for small screen sizes 800px and down */
+    @media screen and (max-width: 800px) {
+      .picture {
+        width: 90%;
+      }
+
+      #links {
+        text-align: left;
+      }
+
+      #menu li {
+        display: block;
+        text-align: left;
+        padding: 0;
+      }
+    }
+
+    
