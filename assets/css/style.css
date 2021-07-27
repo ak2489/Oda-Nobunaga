@@ -40,9 +40,12 @@ h2 {
     margin-right: 40px;
 }
 
-#images {
+.picture {
     height: 40%;
     width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
