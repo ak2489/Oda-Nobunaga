@@ -24,7 +24,7 @@ h2 {
     text-align: center;
 }
 
-/* image and opening statement */
+/* images */
 
 .center {
     display: block;
@@ -32,11 +32,29 @@ h2 {
     margin-right: auto;
   }
 
-  #opening {
-      margin-left: 20px;
-      margin-right: 20px;
-      font-size: large;
-      text-align: center;
+#oda-clan {
+
+}
+
+#battle {
+
+}
+
+#samurai {
+
+}
+
+#temple {
+    
+}
+
+/* opening statement */
+
+ #opening {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: large;
+     text-align: center;
   }
 
 /* navigation links */
@@ -63,7 +81,7 @@ h2 {
     border-bottom: 2px solid #3a3a3a;
 }
 
-/* paragraph style */
+/* information style */
 
 p {
     text-align: center;
