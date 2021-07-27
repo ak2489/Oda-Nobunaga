@@ -33,26 +33,24 @@ h2 {
   }
 
 #oda-clan {
-
+    height: 206px;
+    width: 170px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
-#battle {
-
+#images {
+    height: 60%;
+    width: 60%;
 }
 
-#samurai {
-
-}
-
-#temple {
-    
-}
 
 /* opening statement */
 
  #opening {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
     font-size: large;
      text-align: center;
   }
