@@ -140,6 +140,17 @@ h3 {
 
   /* media queries */
 
+    /* for larger to medium screen size from 1200px wide and down */
+    @media screen and (max-width: 1200px) {
+      .picture {
+        width: 80%;
+      }
+
+      ul {
+        padding-left: 0;
+      }
+    }
+
     /* for medium screen sizes 950px wide and down*/
     @media screen and (max-width: 950px) {
       .picture {
