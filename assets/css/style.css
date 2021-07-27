@@ -100,33 +100,40 @@ h3 {
     text-align: center;
     font-size: 40px;
     margin-top: 10px;
-    margin-bottom: 10px;
+    background-color: #5B00B5;
 }
 
-a:link {
-    color: #5B00B5;
+  #links a:link {
+    color: #FFFBBD;
     background-color: transparent;
     text-decoration: none;
   }
   
-  a:visited {
-    color: #5B00B5;
+  #links    a:visited {
+    color: #FFFBBD;
     background-color: transparent;
     text-decoration: none;
   }
   
-  a:hover {
-    color: #5B00B5;
+  #links a:hover {
+    color: #FFFBBD;
     background-color: transparent;
     text-decoration: underline;
   }
   
-  a:active {
-    color: #5b00b5;
+  #links a:active {
+    color: #FFFBBD;
     background-color: transparent;
     text-decoration: underline;
   }
 
   #links a:hover {
-    border-bottom: 2px solid #3a3a3a;
+    border: 2px solid#FFFBBD;
+  }
+
+  #links li {
+    list-style: none;
+    display: inline;
+    text-align: center;
+    padding-left: 40px;
   }
