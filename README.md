@@ -33,7 +33,7 @@ Users of this website will be able to to find all the key battle names in chrono
 
 ### Scroll to top 
 
-* The scroll to top feature allows the user to quickly return to the top of the page and the navigation bar. 
+* The scroll to top features on all the pages and allows the user to quickly return to the top of the page and the navigation bar. 
 * This feature helps the user on smaller screens as it is quickly moves them back up the page.
 
 ![Scroll to top](../Oda-Nobunaga/assets/docs/scroll-to-top.jpg)
@@ -48,7 +48,27 @@ Users of this website will be able to to find all the key battle names in chrono
 
 ### Rise to Power
 
-* The Rise to power page will provide the user with information about how Nobunaga used his knowledge in battles to become one of Japan's most powerful people of the era.
-* The user can see Wikipedia links in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open.
+* The Rise to power page will provides the user with information about how Nobunaga uses his knowledge in battles to become one of Japan's most powerful people of the era.
+* The image is an ancient artist depiction of a battle on a river. This helps the user experience how long ago all of this happened.
+* The user can see Wikipedia links to the significant battles in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open.
 
 ![rise to power](../Oda-Nobunaga/assets/docs/power.jpg)
+
+### Unification of Japan
+
+* The unification of Japan page provides the user with information about how Nobunaga starts to unify Japan and bring an end to the Shogunate reign this is shown with an image of a Shogun riding on a horse.
+* The user can see Wikipedia links to the significant battles in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open.
+
+![unification of japan](../Oda-Nobunaga/assets/docs/japan.jpg)
+
+### Death 
+
+* The Death page provides the user with information about how Nobunaga came to die and uses an image of a palace like in which Nobunaga would have seen his demise.
+* The user can see Wikipedia links to the significant battles in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open.
+
+![Death](../Oda-Nobunaga/assets/docs/death.jpg)
+
+### Features Left to Implement 
+
+* I would have like to have broken the information up more, when the site is being used on 800px and smaller the infomation paragraphs are very large. 
+* 
