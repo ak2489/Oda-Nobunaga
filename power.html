@@ -62,7 +62,8 @@
             Other forces led by Niwa Nagahide defeated the Rokkaku on the battlefield and entered Kannonji Castle, before resuming Nobunaga's march to Kyoto. Later in 1570, the Rokkaku tried to re-take the castle, but they were driven back by Oda forces led by Shibata Katsuie. The approaching Oda army influenced the Matsunaga clan to submit to the future shogun. The daimyo Matsunaga Hisahide kept his title by making this decision to ally his clan with the shogun.
             On November 9, 1568, Nobunaga entered Kyoto, drove out the Miyoshi clan, who fled to Settsu, and installed Yoshiaki as the 15th shogun of the Ashikaga Shogunate. However, Nobunaga refused the title of shogun's deputy (Kanrei), or any appointment from Yoshiaki. As their relationship grew difficult, Yoshiaki secretly started an anti-Nobunaga alliance, conspiring with other daimyos to get rid of Nobunaga.
         </p>
-        </section>
+    </section>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </body>
 <footer id="links">
     <ul>
@@ -83,4 +84,26 @@
 
 <!-- font awesome script -->
 <script src="https://kit.fontawesome.com/1c75eb0367.js" crossorigin="anonymous"></script>
+
+<script>
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
+    
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+    
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+    
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    </script>
 </html>

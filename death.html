@@ -46,6 +46,7 @@
             referring to his young page, Mori Ranmaru, who set the temple on fire as Nobunaga requested so that no one would be able to get his decapitated head. Ranmaru then followed his lord, with his loyalty and devotion making him a revered figure in Japanese history. Nobunaga's remains were never found, a fact often speculated about by writers and historians. This would go on to be known as <a href="https://en.wikipedia.org/wiki/Honn%C5%8D-ji_incident" target="_blank">Honnō-ji incident.</a>
         </p>
     </section>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </body>
 <footer id="links">
     <ul>
@@ -66,4 +67,25 @@
 
 <!-- font awesome script -->
 <script src="https://kit.fontawesome.com/1c75eb0367.js" crossorigin="anonymous"></script>
+<script>
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
+    
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+    
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+    
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    </script>
 </html>

@@ -67,6 +67,7 @@
             By 1580, Nobunaga was the most powerful lord in Japan, controlling 20 provinces in central Japan: Owari, Mino, Omi, Iga, Ise, Yamato, Yamashiro, Kawachi, Izumi, Settsu, Echizen, Hida, Kaga, Shinano, Kai, Tango, Harima, Inaba, Tanba and Bizen.
         </p>
     </section>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </body>
 <footer id="links">
     <ul>
@@ -87,4 +88,26 @@
 
 <!-- font awesome script -->
 <script src="https://kit.fontawesome.com/1c75eb0367.js" crossorigin="anonymous"></script>
+
+<script>
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
+    
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+    
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+    
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    </script>
 </html>
