@@ -12,24 +12,43 @@ Users of this website will be able to to find all the key battle names in chrono
 
 ### Navigation
 
-* Features just after the opening the full responsive nav bar includes links to different parts of the timeline of event.   
-* This feature allows the user to quickly move down the page to find the relevent information. 
-* In the future I would have liked to make the Nav bar stick to the top of the page once it is scrolled past. I was unsure of how to use the JavaScript part of it.
+* Featured on all five pages, the full responsive navigation bar includes links to home, early life, unification of Owari, Rise to power, unification of Japan and Death. It is the same on each page to allow easy naviagtion.
+* This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
 
 ![navigation image](../Oda-Nobunaga/assets/docs/nav-bar.jpg)
 
-### Early life 
+### Home Page
 
-* The early life section allows the user to gain knowledge of Oda Nobunaga's birth and social standing. 
-* It has links to further information about the Oda Clan that the user can follow through to a new tab. 
-* The user can also follow links to further infortmation on the significant battles in Oda Nobunaga's quest in the unification of his Owari provence. 
+* The home page features a title, opening statement and an artists impression of Oda Nobunaga. 
+* This section gives the user a breif introduction to who the page is about.
 
-![early-life](../Oda-Nobunaga/assets/docs/Early-life.jpg)
+![home page image](../Oda-Nobunaga/assets/docs/home-page.jpg)
+
+### Footer
+
+* The footer features on all 5 pages and has links to Oda Nobunaga's Wikipedia page along with social media links. The links will open to a new tab to allow easy navigation for the user.
+* The footer is vauluable as it continues the experience for the user to gather more information.
+
+![footer](../Oda-Nobunaga/assets/docs/footer.jpg)
+
+### Scroll to top 
+
+* The scroll to top feature allows the user to quickly return to the top of the page and the navigation bar. 
+* This feature helps the user on smaller screens as it is quickly moves them back up the page.
+
+![Scroll to top](../Oda-Nobunaga/assets/docs/scroll-to-top.jpg)
+
+### Early life
+
+* The Early life page will provide the user with the information regarding Nobunaga's birth and how he came to be his clans leader. 
+* The user can see an image of the Oda Clan logo. This image has a title tag to tell the user what the image is.
+* The user can see Wikipedia links in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open. 
+
+![early life](../Oda-Nobunaga/assets/docs/early-life.jpg)
 
 ### Rise to Power
 
-* The rise to power section allows the user to follow the events in Oda Nobunaga's life after his unification of the Oda Clan.
-* It has links to significant battles that go on to make Oda Nobunaga a leading figure in Japanenes history. 
-* The image used is 
+* The Rise to power page will provide the user with information about how Nobunaga used his knowledge in battles to become one of Japan's most powerful people of the era.
+* The user can see Wikipedia links in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open.
 
-![rise to power](../Oda-Nobunaga/assets/docs/rise-to-power.jpg)
+![rise to power](../Oda-Nobunaga/assets/docs/power.jpg)
