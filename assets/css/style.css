@@ -81,6 +81,10 @@ h2 {
     border-bottom: 2px solid #3a3a3a;
 }
 
+.active {
+  border-bottom: 2px solid #3a3a3a;
+}
+
 /* information style */
 
 p {
