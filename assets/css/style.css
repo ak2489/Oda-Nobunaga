@@ -162,7 +162,8 @@ h3 {
     @media screen and (max-width: 800px) {
       
       h1 {
-        border: 10 5 10 5;
+        border-left: 5px;
+        border-right: 5px;
       }
       
       .picture {
