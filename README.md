@@ -10,14 +10,6 @@ Users of this website will be able to to find all the key battle names in chrono
 
 ## Features 
 
-### Title, Image and Opening Statement
-
-* The opening of the website shows you a header of Oda Nobunaga with an image and opening statement giving a breif overview of who he is in history.
-* The image shows an artist impression of Oda Nobunaga.
-* This helps the user understand what they are looking at and why this person has a website about them.
-
-![Opening](../Oda-Nobunaga/assets/docs/opening.jpg)
-
 ### Navigation
 
 * Features just after the opening the full responsive nav bar includes links to different parts of the timeline of event.   

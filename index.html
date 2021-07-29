@@ -12,38 +12,36 @@
 </head>
 <body>
     <header>
-        <section>
-            <nav>
-                <ul id="menu">
-                    <li>
-                        <a href="index.html" class="active">Home</a>
-                    </li>
-                    <li>
-                        <a href="early-life.html">Early Life</a>
-                    </li>
-                    <li>
-                        <a href="power.html">Rise to Power</a>
-                    </li>
-                    <li>
-                        <a href="japan.html">Unification of Japan</a>
-                    </li>
-                    <li>
-                        <a href="death.html">Death</a>
-                    </li>
-                </ul>
-            </nav>
-    </header>
-        <section>
-            <h1>Oda Nobunaga</h1>
-            <img src="../Oda-Nobunaga/assets/images/170px-Oda_Nobunaga-Portrait_by_Giovanni_NIcolao.jpg" alt="A Portrait of Oda Nobunaga, imagined by Jesuit Italian painter Giovanni Niccolò," id="center">
-            <p id="opening">
-                Oda Nobunaga was a Japanese daimyo and one of the leading figures of the Sengoku period. 
-                He is regarded as the first "Great Unifier" of Japan. His reputation in war gave him the nickname of "Demon Daimyo" or "Demon King".
-                Nobunaga was an influential figure in Japanese history and is regarded as one of three great unifiers.
-            </p>   
-        </section>
-        <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-    </body>
+         <nav>
+            <ul id="menu">
+                 <li>
+                    <a href="index.html" class="active">Home</a>
+                </li>
+                <li>
+                    <a href="early-life.html">Early Life</a>
+                 </li>
+                <li>
+                    <a href="power.html">Rise to Power</a>
+                </li>
+                <li>
+                    <a href="japan.html">Unification of Japan</a>
+                </li>
+                <li>
+                    <a href="death.html">Death</a>
+                </li>
+            </ul>
+        </nav> 
+    </header> 
+    <section>
+        <h1>Oda Nobunaga</h1>
+        <img src="../Oda-Nobunaga/assets/images/170px-Oda_Nobunaga-Portrait_by_Giovanni_NIcolao.jpg" alt="A Portrait of Oda Nobunaga, imagined by Jesuit Italian painter Giovanni Niccolò," id="center">
+        <p id="opening">
+            Oda Nobunaga was a Japanese daimyo and one of the leading figures of the Sengoku period. 
+            He is regarded as the first "Great Unifier" of Japan. His reputation in war gave him the nickname of "Demon Daimyo" or "Demon King".
+            Nobunaga was an influential figure in Japanese history and is regarded as one of three great unifiers.
+        </p>   
+    </section>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
     <footer id="links">
         <ul>
             <li id="wiki">
@@ -62,28 +60,28 @@
     </footer>
 
     <!-- font awesome script -->
-<script src="https://kit.fontawesome.com/1c75eb0367.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/1c75eb0367.js" crossorigin="anonymous"></script>
 
-<script>
-    //Get the button
-    var mybutton = document.getElementById("myBtn");
+    <script>
+        //Get the button
+        var mybutton = document.getElementById("myBtn");
     
-    // When the user scrolls down 20px from the top of the document, show the button
-    window.onscroll = function() {scrollFunction()};
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function() {scrollFunction()};
     
-    function scrollFunction() {
-      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
         mybutton.style.display = "block";
-      } else {
+        } else {
         mybutton.style.display = "none";
-      }
-    }
+        }
+        }
     
-    // When the user clicks on the button, scroll to the top of the document
-    function topFunction() {
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
       document.body.scrollTop = 0;
       document.documentElement.scrollTop = 0;
-    }
+        }
     </script>
 </body>
 </html>
