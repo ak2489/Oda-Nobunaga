@@ -13,7 +13,7 @@ Users of this website will be able to to find all the key battle names in chrono
 ### Title, Image and Opening Statement
 
 * The opening of the website shows you a header of Oda Nobunaga with an image and opening statement giving a breif overview of who he is in history.
-* The image shows an artist impression of Oda Nobunaga (image taken from https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Oda_Nobunaga-Portrait_by_Giovanni_NIcolao.jpg/255px-Oda_Nobunaga-Portrait_by_Giovanni_NIcolao.jpg)
+* The image shows an artist impression of Oda Nobunaga.
 * This helps the user understand what they are looking at and why this person has a website about them.
 
 ![Opening](../Oda-Nobunaga/assets/docs/opening.jpg)
@@ -22,6 +22,7 @@ Users of this website will be able to to find all the key battle names in chrono
 
 * Features just after the opening the full responsive nav bar includes links to different parts of the timeline of event.   
 * This feature allows the user to quickly move down the page to find the relevent information. 
+* In the future I would have liked to make the Nav bar stick to the top of the page once it is scrolled past. I was unsure of how to use the JavaScript part of it.
 
 ![navigation image](../Oda-Nobunaga/assets/docs/nav-bar.jpg)
 
@@ -29,7 +30,14 @@ Users of this website will be able to to find all the key battle names in chrono
 
 * The early life section allows the user to gain knowledge of Oda Nobunaga's birth and social standing. 
 * It has links to further information about the Oda Clan that the user can follow through to a new tab. 
-The image shows the Oda Clan emblem (image taken from https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Oda_emblem.svg/330px-Oda_emblem.svg.png)
-* The user can also follow link to significant battles in Oda Nobunaga's quest in unification of his Owari provence. 
+* The user can also follow links to further infortmation on the significant battles in Oda Nobunaga's quest in the unification of his Owari provence. 
 
 ![early-life](../Oda-Nobunaga/assets/docs/Early-life.jpg)
+
+### Rise to Power
+
+* The rise to power section allows the user to follow the events in Oda Nobunaga's life after his unification of the Oda Clan.
+* It has links to significant battles that go on to make Oda Nobunaga a leading figure in Japanenes history. 
+* The image used is 
+
+![rise to power](../Oda-Nobunaga/assets/docs/rise-to-power.jpg)
