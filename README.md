@@ -6,7 +6,7 @@ The Oda Nobunaga website is a page that looks at the timeline of his life lookin
 
 Users of this website will be able to to find all the key battle names in chronological order with links to the battles Wikipedia pages for additional information. This site is targeting people with an interest in in the history of Japan more particually the great unifier Oda Nobunaga. 
 
-![Responsive Image](../assets/docs/responsive.jpg)
+![Responsive Image](/assets/docs/responsive.jpg)
 
 ## Features 
 
@@ -15,28 +15,28 @@ Users of this website will be able to to find all the key battle names in chrono
 * Featured on all five pages, the full responsive navigation bar includes links to home, early life, unification of Owari, Rise to power, unification of Japan and Death. It is the same on each page to allow easy naviagtion.
 * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
 
-![navigation image](../assets/docs/nav-bar.jpg)
+![navigation image](/assets/docs/nav-bar.jpg)
 
 ### Home Page
 
 * The home page features a title, opening statement and an artists impression of Oda Nobunaga. 
 * This section gives the user a breif introduction to who the page is about.
 
-![home page image](../assets/docs/home-page.jpg)
+![home page image](/assets/docs/home-page.jpg)
 
 ### Footer
 
 * The footer features on all 5 pages and has links to Oda Nobunaga's Wikipedia page along with social media links. The links will open to a new tab to allow easy navigation for the user.
 * The footer is vauluable as it continues the experience for the user to gather more information.
 
-![footer](../assets/docs/footer.jpg)
+![footer](/assets/docs/footer.jpg)
 
 ### Scroll to top 
 
 * The scroll to top features on all the pages and allows the user to quickly return to the top of the page and the navigation bar. 
 * This feature helps the user on smaller screens as it is quickly moves them back up the page.
 
-![Scroll to top](../assets/docs/scroll-to-top.jpg)
+![Scroll to top](/assets/docs/scroll-to-top.jpg)
 
 ### Early life
 
@@ -44,7 +44,7 @@ Users of this website will be able to to find all the key battle names in chrono
 * The user can see an image of the Oda Clan logo. This image has a title tag to tell the user what the image is.
 * The user can see Wikipedia links in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open. 
 
-![early life](../assets/docs/early-life.jpg)
+![early life](/assets/docs/early-life.jpg)
 
 ### Rise to Power
 
@@ -52,21 +52,21 @@ Users of this website will be able to to find all the key battle names in chrono
 * The image is an ancient artist depiction of a battle on a river. This helps the user experience how long ago all of this happened.
 * The user can see Wikipedia links to the significant battles in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open.
 
-![rise to power](../assets/docs/power.jpg)
+![rise to power](/assets/docs/power.jpg)
 
 ### Unification of Japan
 
 * The unification of Japan page provides the user with information about how Nobunaga starts to unify Japan and bring an end to the Shogunate reign this is shown with an image of a Shogun riding on a horse.
 * The user can see Wikipedia links to the significant battles in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open.
 
-![unification of japan](../assets/docs/japan.jpg)
+![unification of japan](/assets/docs/japan.jpg)
 
 ### Death 
 
 * The Death page provides the user with information about how Nobunaga came to die and uses an image of a palace like in which Nobunaga would have seen his demise.
 * The user can see Wikipedia links to the significant battles in blue and underlined so they can further their experience. The links will open to a new tab so the user still has the original page open.
 
-![Death](../assets/docs/death.jpg)
+![Death](/assets/docs/death.jpg)
 
 ### Addition Features
 
@@ -91,7 +91,7 @@ Users of this website will be able to to find all the key battle names in chrono
 
 * I discovered this was because I had used relative file paths such as in this code. 
 
-![bugged code](../assets/docs/bugs.jpg)
+![bugged code](/assets/docs/bugs.jpg)
 
 * By adding ../Oda-Nobunaga/ before assets folder fixed the problem. 
 
@@ -104,7 +104,7 @@ Users of this website will be able to to find all the key battle names in chrono
 ### Accessability 
 * I confirmed that the colors and fonts chosen are easy to read and accessable by running it through lighthouse in devtools. 
 
-![accessability](../assets/docs/performance.jpg)
+![accessability](/assets/docs/performance.jpg)
 
 ## Deployment
 
